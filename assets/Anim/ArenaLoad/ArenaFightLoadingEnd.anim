@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ArenaFightLoadingEnd",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "AttributeLayer/RoleAttributeBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -602.9
+            },
+            {
+              "frame": 1,
+              "value": -602.9
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -8,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 1,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "AttributeLayer/RivalAttributeBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 602.9
+            },
+            {
+              "frame": 1,
+              "value": 602.9
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -8,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 1,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 1,
+              "value": -1000
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "x": [
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ],
+      "y": [
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.9333333333333333,
+          "value": 255,
+          "curve": "quartOut"
+        },
+        {
+          "frame": 1.1333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.0833333333333333,
+      "func": "showLoadingEndFinish",
+      "params": []
+    }
+  ]
+}

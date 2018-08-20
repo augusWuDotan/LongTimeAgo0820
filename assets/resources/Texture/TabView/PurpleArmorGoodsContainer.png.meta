@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1f9c18a2-6c26-4e91-b318-2abd7045e209",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PurpleArmorGoodsContainer": {
+      "ver": "1.0.3",
+      "uuid": "4d15c94b-8c15-4128-b6d6-33d981216dff",
+      "rawTextureUuid": "1f9c18a2-6c26-4e91-b318-2abd7045e209",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 456,
+      "rawWidth": 296,
+      "rawHeight": 457,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

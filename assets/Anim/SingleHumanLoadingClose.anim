@@ -1,0 +1,588 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SingleHumanLoadingClose",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lighting": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 540
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Center_Vs": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 540
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.0000046792042183,
+                "y": 1.0000046792042183
+              }
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.0000046792042183,
+                "y": 1.0000046792042183
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "CenterLogo": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 540
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "RightScreen": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.85,
+              "value": 418,
+              "curve": [
+                0.4,
+                0,
+                1,
+                0.1
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 1550
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.85,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "LeftScreen": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.85,
+              "value": -418,
+              "curve": [
+                0.4,
+                0,
+                0.99,
+                0.1
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -1550
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.85,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ProtagonistCombatPowerValueLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": -432
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -432
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": -1500
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -243
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -243
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": -243
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "RivalCombatPowerValueLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 432
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 432
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1500
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -243
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -243
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": -243
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "StandAloneTimeCount": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -431
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": -700
+            }
+          ]
+        }
+      },
+      "LaodingRoleLayer/RolePhoto": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.25,
+              "value": -1200,
+              "curve": "quartIn"
+            },
+            {
+              "frame": 0.5,
+              "value": -2300
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 2300
+            },
+            {
+              "frame": 2,
+              "value": -1800
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "LaodingRoleLayer/RivalPhoto": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.25,
+              "value": 1350,
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.5,
+              "value": 2575
+            },
+            {
+              "frame": 4,
+              "value": 1475
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -794
+            },
+            {
+              "frame": 0.25,
+              "value": -794
+            },
+            {
+              "frame": 0.5,
+              "value": -794
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": -328
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -328
+            },
+            {
+              "frame": 4,
+              "value": -793
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "audio_open",
+      "params": []
+    },
+    {
+      "frame": 1.1666666666666667,
+      "func": "CloseFinish",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "09779e91-b649-4063-a631-af0fc1d02624",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "enemy_role_scimitar": {
+      "ver": "1.0.3",
+      "uuid": "998b8849-89c6-4885-8bdb-927811bc0e3e",
+      "rawTextureUuid": "09779e91-b649-4063-a631-af0fc1d02624",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 996,
+      "height": 1276,
+      "rawWidth": 1000,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

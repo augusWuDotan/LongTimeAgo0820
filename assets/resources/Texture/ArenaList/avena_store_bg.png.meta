@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fbd121af-97af-498b-9175-5b1bec2f7dfc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "avena_store_bg": {
+      "ver": "1.0.3",
+      "uuid": "fd23365b-3c44-4a72-bb80-d5a2b1a789ef",
+      "rawTextureUuid": "fbd121af-97af-498b-9175-5b1bec2f7dfc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 2,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 315,
+      "height": 681,
+      "rawWidth": 318,
+      "rawHeight": 685,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

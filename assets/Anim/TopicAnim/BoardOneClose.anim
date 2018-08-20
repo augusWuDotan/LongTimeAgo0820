@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BoardOneClose",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -97.19999999999999,
+          "curve": [
+            0.75,
+            0.05,
+            1.05,
+            0.04
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1000
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255,
+          "curve": "quartIn"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 0.35,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.35,
+      "func": "CloseTopicFinish",
+      "params": []
+    }
+  ]
+}

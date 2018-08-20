@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "97e81e26-38c6-4999-9dad-389c5cea4413",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "avena_box2_open": {
+      "ver": "1.0.3",
+      "uuid": "04d066d4-cdaf-4783-afd4-6e7a0d1e770e",
+      "rawTextureUuid": "97e81e26-38c6-4999-9dad-389c5cea4413",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13,
+      "offsetY": 5,
+      "trimX": 32,
+      "trimY": 5,
+      "width": 99,
+      "height": 93,
+      "rawWidth": 137,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

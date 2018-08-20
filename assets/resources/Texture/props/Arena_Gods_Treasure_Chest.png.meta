@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "46b91e0f-a5ca-47e3-9c3c-e29b466110a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Arena_Gods_Treasure_Chest": {
+      "ver": "1.0.3",
+      "uuid": "4eab5a46-b0fd-48df-bd19-42ba8eb2206f",
+      "rawTextureUuid": "46b91e0f-a5ca-47e3-9c3c-e29b466110a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -1,
+      "trimX": 42,
+      "trimY": 41,
+      "width": 120,
+      "height": 125,
+      "rawWidth": 206,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "11e54da7-5c2c-4fac-877f-4c69708a71fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "enemy_skill_weakness": {
+      "ver": "1.0.3",
+      "uuid": "da2c33e8-5f95-4966-a34b-a0d60593f309",
+      "rawTextureUuid": "11e54da7-5c2c-4fac-877f-4c69708a71fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 994,
+      "height": 1600,
+      "rawWidth": 998,
+      "rawHeight": 1604,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

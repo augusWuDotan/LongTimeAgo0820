@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "talklayerOpen2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "fillStart": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": 0
+          }
+        ],
+        "fillRange": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": 1
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "finishOpen",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    }
+  ]
+}

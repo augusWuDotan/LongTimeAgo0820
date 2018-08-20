@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "982a5084-b417-4d09-bdce-07bfc13efb3c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "people_fight_vs_bg": {
+      "ver": "1.0.3",
+      "uuid": "b03db178-0391-4cc6-9b2e-ceeb149eaf79",
+      "rawTextureUuid": "982a5084-b417-4d09-bdce-07bfc13efb3c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 148,
+      "rawWidth": 148,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

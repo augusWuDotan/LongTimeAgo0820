@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "67a4bf6d-b27d-459d-9e63-022c2ad53c5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "WhiteArmorGoodsContainer": {
+      "ver": "1.0.3",
+      "uuid": "e1f2753e-2058-448b-96f5-379cd0e425be",
+      "rawTextureUuid": "67a4bf6d-b27d-459d-9e63-022c2ad53c5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 456,
+      "rawWidth": 296,
+      "rawHeight": 457,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

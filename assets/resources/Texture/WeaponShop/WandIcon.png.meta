@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "147b7634-bc42-43fe-9523-6104a759737d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "WandIcon": {
+      "ver": "1.0.3",
+      "uuid": "c2032b06-7db6-417e-a4fd-36e7b5d16f82",
+      "rawTextureUuid": "147b7634-bc42-43fe-9523-6104a759737d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 32,
+      "trimY": 18,
+      "width": 66,
+      "height": 130,
+      "rawWidth": 128,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

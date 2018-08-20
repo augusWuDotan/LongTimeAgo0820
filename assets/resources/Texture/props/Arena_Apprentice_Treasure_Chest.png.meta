@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f6c93193-bb86-4bc3-b456-f58c09a95b04",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Arena_Apprentice_Treasure_Chest": {
+      "ver": "1.0.3",
+      "uuid": "89a4c67c-88ad-4f63-899c-b5da166f3658",
+      "rawTextureUuid": "f6c93193-bb86-4bc3-b456-f58c09a95b04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -9.5,
+      "trimX": 44,
+      "trimY": 58,
+      "width": 115,
+      "height": 108,
+      "rawWidth": 206,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

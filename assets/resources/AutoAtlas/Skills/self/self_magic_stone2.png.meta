@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e9a7e6c0-1567-48f7-b0e8-e4aab1f70d63",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "self_magic_stone2": {
+      "ver": "1.0.3",
+      "uuid": "d96dfec6-eadb-4532-b230-1f59abe7f8a4",
+      "rawTextureUuid": "e9a7e6c0-1567-48f7-b0e8-e4aab1f70d63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1986,
+      "height": 2646,
+      "rawWidth": 1986,
+      "rawHeight": 2646,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

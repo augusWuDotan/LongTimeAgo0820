@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0af97447-1ef6-4b8a-862c-835375173b37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HeavyArmorIcon": {
+      "ver": "1.0.3",
+      "uuid": "c63a153a-0e1c-4dda-9fb7-ccb617fe7ef9",
+      "rawTextureUuid": "0af97447-1ef6-4b8a-862c-835375173b37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 9,
+      "trimY": 35,
+      "width": 110,
+      "height": 93,
+      "rawWidth": 128,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

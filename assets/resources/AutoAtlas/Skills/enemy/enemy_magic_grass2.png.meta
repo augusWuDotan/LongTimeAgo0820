@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8044e81e-5b6b-42e4-be94-d83902d2b2e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "enemy_magic_grass2": {
+      "ver": "1.0.3",
+      "uuid": "b4858605-de25-4d28-9381-c5db0816ca05",
+      "rawTextureUuid": "8044e81e-5b6b-42e4-be94-d83902d2b2e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1728,
+      "height": 970,
+      "rawWidth": 1732,
+      "rawHeight": 974,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

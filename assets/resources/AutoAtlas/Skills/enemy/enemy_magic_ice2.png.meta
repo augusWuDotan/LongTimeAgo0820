@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6560a618-13a6-44c0-9412-e646c7f52145",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "enemy_magic_ice2": {
+      "ver": "1.0.3",
+      "uuid": "7be0d27c-df71-4f30-b988-3f659cdae09c",
+      "rawTextureUuid": "6560a618-13a6-44c0-9412-e646c7f52145",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 1465,
+      "height": 806,
+      "rawWidth": 1470,
+      "rawHeight": 810,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "84ef6da8-04c2-442c-befc-6e154df09072",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "enemy_magic_fire2": {
+      "ver": "1.0.3",
+      "uuid": "d4551d50-f34f-4996-9d61-ada19999a4d4",
+      "rawTextureUuid": "84ef6da8-04c2-442c-befc-6e154df09072",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 1891,
+      "height": 1302,
+      "rawWidth": 1896,
+      "rawHeight": 1304,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RoleVisiableAction",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "LaodingRoleLayer": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -1080
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "LaodingRoleLayer/RolePhoto": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1200
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -794
+            }
+          ]
+        }
+      },
+      "LaodingRoleLayer/RivalPhoto": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1350
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -794
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "showLoadingLayerFirstStepRoleVisiableFinish",
+      "params": []
+    }
+  ]
+}

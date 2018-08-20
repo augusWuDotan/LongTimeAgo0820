@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "19003c26-4582-4eda-873f-3f16cc771bd7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "g_Light avatar_01": {
+      "ver": "1.0.3",
+      "uuid": "b9d8e972-60a3-4598-b6e9-7dac52a6ba47",
+      "rawTextureUuid": "19003c26-4582-4eda-873f-3f16cc771bd7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 220,
+      "rawWidth": 220,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

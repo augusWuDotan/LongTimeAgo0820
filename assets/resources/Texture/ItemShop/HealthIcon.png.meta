@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dfb36d55-3d72-412a-be85-04b02990625c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HealthIcon": {
+      "ver": "1.0.3",
+      "uuid": "3510d2bb-bbcb-4e5b-b17f-a8d2a0fa7fec",
+      "rawTextureUuid": "dfb36d55-3d72-412a-be85-04b02990625c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 15,
+      "trimY": 27,
+      "width": 98,
+      "height": 111,
+      "rawWidth": 128,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

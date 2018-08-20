@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ArenaFightLoadingShow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1166666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "AttributeLayer/RoleAttributeBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.08333333333333333,
+              "value": -602.9
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": -602.9
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.08333333333333333,
+              "value": -1000,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": -8
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "AttributeLayer/RivalAttributeBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 602.9
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 602.9
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.08333333333333333,
+              "value": -1000,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": -8
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 1000,
+              "curve": "quintOut"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "quintOut"
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 255,
+              "curve": "linear"
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer/vs_icon": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.08333333333333333,
+              "value": -72
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.1166666666666667,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              },
+              "curve": "quintOut"
+            },
+            {
+              "frame": 1.1166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 255
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "audio_LoadingStart",
+      "params": []
+    },
+    {
+      "frame": 0.06666666666666667,
+      "func": "audio_vs",
+      "params": []
+    },
+    {
+      "frame": 0.5833333333333334,
+      "func": "showFire",
+      "params": []
+    },
+    {
+      "frame": 0.85,
+      "func": "audio_vs2",
+      "params": []
+    },
+    {
+      "frame": 1.1166666666666667,
+      "func": "showLoadingStartFinish",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4ca70326-1c7a-46d4-af94-3065b4d94bf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "OrangeArmorGoodsContainer": {
+      "ver": "1.0.3",
+      "uuid": "1585c890-4e9a-4e54-a8b5-5b14a82c9c09",
+      "rawTextureUuid": "4ca70326-1c7a-46d4-af94-3065b4d94bf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 456,
+      "rawWidth": 296,
+      "rawHeight": 457,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

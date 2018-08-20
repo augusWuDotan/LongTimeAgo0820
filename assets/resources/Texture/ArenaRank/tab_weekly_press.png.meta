@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d48fbaa6-8b08-4bc4-94b6-819faa75f191",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tab_weekly_press": {
+      "ver": "1.0.3",
+      "uuid": "ae687b6f-e141-4707-a7c1-22b3c8dfe7b8",
+      "rawTextureUuid": "d48fbaa6-8b08-4bc4-94b6-819faa75f191",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 64,
+      "rawWidth": 196,
+      "rawHeight": 65,
+      "borderTop": 5,
+      "borderBottom": 8,
+      "borderLeft": 30,
+      "borderRight": 31,
+      "subMetas": {}
+    }
+  }
+}

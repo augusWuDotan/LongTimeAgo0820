@@ -1,0 +1,229 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ArenaFightLoadingCount",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "AttributeLayer/AttributeLayerVsBgLayer/number_bg/MaskView/number3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 0,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.4,
+              "value": 130,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.6,
+              "value": 260,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.8,
+              "value": 390
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer/number_bg/MaskView/number2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.2,
+              "value": -130,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.4,
+              "value": 0,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.6,
+              "value": 130,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.8,
+              "value": 260
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer/number_bg/MaskView/number1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.2,
+              "value": -260,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.4,
+              "value": -130,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.6,
+              "value": 0,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.8,
+              "value": 130
+            }
+          ]
+        }
+      },
+      "AttributeLayer/AttributeLayerVsBgLayer/number_bg/MaskView/number0": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.2,
+              "value": -390
+            },
+            {
+              "frame": 0.4,
+              "value": -260
+            },
+            {
+              "frame": 0.6,
+              "value": -130,
+              "curve": "quartOut"
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.2,
+      "func": "audio_time",
+      "params": []
+    },
+    {
+      "frame": 0.4,
+      "func": "audio_time",
+      "params": []
+    },
+    {
+      "frame": 0.6,
+      "func": "audio_time",
+      "params": []
+    },
+    {
+      "frame": 0.8,
+      "func": "audio_time_0",
+      "params": []
+    },
+    {
+      "frame": 0.8333333333333334,
+      "func": "showLoadingCountingStartFinish",
+      "params": []
+    }
+  ]
+}
